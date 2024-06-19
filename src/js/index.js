@@ -111,8 +111,7 @@ const evenAndOddResult = evenAndOdd([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
 
 //- Crea una función que reciba un array de 10 números y te diga si alguno es mayor de 5.
 
-//- Crea una función que reciba un array de 5 palabras y un número y te devuelva un array con las palabras que tienen esa longitud, por ejemplo si le envias (['hola', 'adios', 'gato', 'perro', 'casa'], 4), te devolverá un array con ['hola', 'gato', 'casa'
-
+//- Crea una función que reciba un array de 5 palabras y un número y te devuelva un array con las palabras que tienen esa longitud, por ejemplo si le envias (['hola', 'adios', 'gato', 'perro', 'casa'], 4), te devolverá un array con ['hola', 'gato', 'casa'jfhdj
 //- Crea una función que reciba un array de números y un número y te devuelva un array con los números que sean divisores de ese número
 
 //- Crea una función que reciba este array y te devuelva sólo los usuarios cuya edad sea menor de 30 ARRAY EJERCICIO
